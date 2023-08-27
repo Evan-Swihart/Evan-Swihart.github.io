@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: Diablo Escapes
-        link: boringcompany.com
+        link: diabloescapes.com
         # link_text: boringcompany.com
         sub_title: Summer Intern
         caption: Summer 2022
@@ -98,7 +98,7 @@ content:
         quote: >
           Established in 1809, Miami University "bears the name of the Myaamia people", and retains a relationship with the Miami Tribe of Okhlahoma. Miami is a top 50 public university according to U.S. News and World Report, and the number two ranked university for undergraduate engineering.
         description: | # this will include new lines to allow paragraphs
-          During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Miami I learnt many of my key skills that have I have taken through my career such as teamwork and problem solving. I tried to maintain a school life balance, and succeeded for the most part. I did well in all of my classes while still having time to participate in my preffered clubs and activities.
 
           I spent a lot of my free time as an active member of the *League of Geeks*, which had many sub clubs I participated in such as the *Strategy Gaming Club* or the *Esports Club*.
 
@@ -112,7 +112,7 @@ content:
       - Rock Climbing
 
       I also love dragons, so here's a picture of one: 
-      
+
       ![Dragon!](/images/dragon.png "Dragon")
 
 # Footer
