@@ -25,7 +25,7 @@ instagram_username: evanswihart1
 linkedin_username: evan-swihart1
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: veebsCS
+youtube_username: "@veebsCS"
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -111,8 +111,8 @@ content:
       - Gaming
       - Rock Climbing
 
-      I also love dragons, so here's a picture of one:
-      ![Dragon!](/images/landscape-trees.jpg "Trees")
+      I also love dragons, so here's a picture of one: 
+      ![Dragon!](/images/dragon.png "Dragon")
 
 # Footer
 footer_show_references: true
