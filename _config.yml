@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Evan Swihart
-title: Recent College Graduate
+title: Recent College Graduate (BSCS)
 email: swidude@gmail.com
 website: https://evan-swihart.github.io/
 
@@ -82,9 +82,9 @@ content:
         sub_title: Summer Intern
         caption: Summer 2022
         quote: >
-          Ever experienced a 50-foot dragon fly overhead? I haven't either, but I have seen a *simulated* 50-foot dragon fly over my head and shoot a crossbow at it.
+          Ever experienced a 50-foot dragon fly overhead? I haven't either, but I have seen a *simulated* 50-foot dragon fly over my head and shot a crossbow at it.
         description: | # this will include new lines to allow paragraphs
-          I worked at Diablo Escapes as an Intern where I configured a network of multiple VR machines and PCs to facilitate a seamless wireless VR escape room experience, ensuring that all required programs were set to launch automatically upon startup. Additionally, I diagnosed and resolved issues with malfunctioning PC and VR hardware components, restoring full functionality. Throught, I comprehensively documentated the step-by-step setup and troubleshooting procedures, designed to assist future team members with limited familiarity of PC and VR systems.
+          I worked at Diablo Escapes as an Intern where I configured a network of multiple VR machines and PCs to facilitate a seamless wireless VR escape room experience, ensuring that all required programs were set to launch automatically upon startup. Additionally, I diagnosed and resolved issues with malfunctioning PC and VR hardware components, restoring full functionality. Throughout, I comprehensively documentated the step-by-step setup and troubleshooting procedures, designed to assist future team members with limited familiarity of PC and VR systems.
           
           I was also in charge of making sure neither the dragon nor the interns ate each other.
 
@@ -98,7 +98,7 @@ content:
         quote: >
           Established in 1809, Miami University "bears the name of the Myaamia people", and retains a relationship with the Miami Tribe of Okhlahoma. Miami is a top 50 public university according to U.S. News and World Report, and the number two ranked university for undergraduate engineering.
         description: | # this will include new lines to allow paragraphs
-          During my time at Miami I learnt many of my key skills that have I have taken through my career such as teamwork and problem solving. I tried to maintain a school life balance, and succeeded for the most part. I did well in all of my classes while still having time to participate in my preffered clubs and activities.
+          During my time at Miami I learnt many of my key skills that have I will continue to use through my career such as teamwork and problem solving. I tried to maintain a school life balance, and succeeded for the most part. I did well in all of my classes while still having time to participate in my preffered clubs and activities.
 
           I spent a lot of my free time as an active member of the *League of Geeks*, which had many sub clubs I participated in such as the *Strategy Gaming Club* or the *Esports Club*.
 
