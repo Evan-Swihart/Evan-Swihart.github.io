@@ -57,20 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: JavaScript Game
+        title: Python Snake
         link: github.com/Evan-Swihart
         link_text: My GitHub Page
         # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+          - title:  Snake Repository
+            icon: fab fa-github
+            url: https://github.com/Evan-Swihart/pysnake/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This app is nowhere near completion, just pretend it is.
+          Snake without a grid, and that's about it
         description: | # this will include new lines to allow paragraphs
-          I started working on this project to learn more about JavaScript and how to use it to make a game. I plan to add more features to this game as I learn more about JavaScript and how to use it. I also happen to love video games so made something useless instead of something like, well, I don't know.
+          The game is currently about 90% of the way to completion, and the things that need to be completed are listed as issues in the repository. One of those issues is actually documentation for the project, which I find ironic. I plan to finish the project by the end of the week, and then will move on to a javascript game I can embed right above this text blurb.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
