@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: Python Snake
-        link: github.com/Evan-Swihart
-        link_text: My GitHub Page
+        link: https://github.com/Evan-Swihart/pysnake/
+        link_text: Snake Repository
         additional_links:
-        - title:  Snake Repository
+        - title: My GitHub Page
           icon: fab fa-github
-          url: https://github.com/Evan-Swihart/pysnake/
+          url: github.com/Evan-Swihart
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
